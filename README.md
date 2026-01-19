@@ -28,7 +28,7 @@
 
 ### `main` 브랜치
 ```
-book/
+book-asset/
   ├── chapter 1/
   │   └── 오픈스택이란?.md
   └── chapter 2/
@@ -37,7 +37,7 @@ book/
 
 ### `study` 브랜치
 ```
-docs/
+study-asset/
   ├── proxmox 네트워크 설정.md  (← 노션 제목: "proxmox 네트워크 설정")
   └── ...
 ```
