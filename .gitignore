@@ -1,0 +1,33 @@
+# [ macOS ]
+# 폴더 아이콘이나 보기 설정 등을 저장하는 시스템 파일
+.DS_Store
+
+# 폴더 아이콘 정보 (가끔씩 생성됨)
+.AppleDouble
+.LSOverride
+
+# 파일 시스템 아이콘 파일
+Icon
+
+
+# [ Thumbnails ]
+# 이미지 미리보기를 위한 캐시 파일들
+._*
+
+# [ Files that might appear in the root of a volume ]
+# 외장 하드나 네트워크 드라이브 연결 시 생성되는 인덱싱/휴지통 데이터
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# [ Directories potentially created by macOS ]
+# 데스크탑 설정 파일 등
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+apstopdf.log
